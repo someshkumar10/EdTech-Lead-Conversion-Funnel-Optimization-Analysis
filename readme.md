@@ -1,4 +1,4 @@
-# 📊 EdTech Lead Conversion & Funnel Optimization Analysis
+# EdTech Lead Conversion & Funnel Optimization Analysis
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-Advanced_Analytics-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Domain](https://img.shields.io/badge/Domain-EdTech_Growth_&_CRM-0078D4?style=for-the-badge)
@@ -9,7 +9,7 @@
 
 ---
 
-## 🧭 Project Showcase Framework (STAR + Business Impact)
+## Project Showcase Framework (STAR + Business Impact)
 
 To make this repository easy to navigate for hiring managers and stakeholders, this case study follows the **STAR + Business Impact Framework**:
 1. **[Situation & Business Problem](#-1-situation--business-problem)** — The commercial challenge in EdTech funnel unit economics.
@@ -21,7 +21,7 @@ To make this repository easy to navigate for hiring managers and stakeholders, t
 
 ---
 
-## 🎯 1. Situation & Business Problem
+## 1. Situation & Business Problem
 
 In live-learning EdTech companies (such as Codeyoung and BrightChamps), the **Free Trial (Demo) Class** is the most critical inflection point in the customer journey. While paid acquisition channels generate high lead volume at the top of the funnel, revenue growth often stalls due to two major leaks:
 1. **Top-of-Funnel Leakage (No-Shows):** Leads book a free trial class but fail to attend.
@@ -31,18 +31,18 @@ Without granular visibility into how different **acquisition sources** and **stu
 
 ---
 
-## 📋 2. Task & Analytical Objectives
+## 2. Task & Analytical Objectives
 
 The objective of this project was to transform raw lead-level funnel telemetry (`Codeyoung_EdTech_Funnel_Dataset.xlsx`) into a structured analytical model and executive dashboard (`Ed Tech Company Analysis Project.xlsx`) to answer four core business questions:
 
-* **Funnel Health:** What is the stage-by-stage conversion and drop-off rate from *Lead Generated $\rightarrow$ Trial Attended $\rightarrow$ Paid Subscription*?
+* **Funnel Health:** What is the stage-by-stage conversion and drop-off rate from *Lead Generated - Trial Attended - Paid Subscription*?
 * **Channel Efficiency:** Which acquisition channels drive the highest-intent leads versus the highest drop-off rates?
 * **Post-Trial Conversion:** Once a student attends a trial class, how effectively does each channel convert attendees into paying subscribers?
 * **Budget & CRM Optimization:** Where should Marketing and Academic Counseling teams intervene to maximize Return on Ad Spend (ROAS)?
 
 ---
 
-## 🛠️ 3. Action: Methodology & Skills Showcased
+## 3. Action: Methodology & Skills Showcased
 
 ### **Technical & Analytical Skills Demonstrated**
 * **Data Cleaning & Preparation:** Audited raw lead records for missing values, standardized categorical fields (acquisition channels, funnel statuses, course modules), and validated date-time sequences.
@@ -55,13 +55,13 @@ $$\text{Post-Trial Conversion Rate (\%)} = \left( \frac{\text{Total Paid Subscri
 
 $$\text{Overall Lead-to-Subscription Rate (\%)} = \left( \frac{\text{Total Paid Subscriptions}}{\text{Total Leads / Trials Booked}} \right) \times 100$$
 
-$$\text{Stage Drop-Off Rate (\%)} = 100\% - \text{Stage Conversion Rate (\%)}$$
+$$\text(and  more) $$
 
 * **Visual Storytelling:** Designed clear comparative charts and summary tables highlighting channel disparities and conversion bottlenecks for rapid executive decision-making.
 
 ---
 
-## 📈 4. Results: Key Insights & Funnel Performance
+## 4. Results: Key Insights & Funnel Performance
 
 ### **A. Acquisition Channel Performance Breakdown**
 
@@ -87,7 +87,7 @@ $$\text{Stage Drop-Off Rate (\%)} = 100\% - \text{Stage Conversion Rate (\%)}$$
 
 ---
 
-## 💡 5. Strategic Recommendations (Business Impact)
+## 5. Strategic Recommendations (Business Impact)
 
 | Target Area | Identified Bottleneck | Actionable Recommendation | Expected Business Impact |
 | :--- | :--- | :--- | :--- |
@@ -98,26 +98,18 @@ $$\text{Stage Drop-Off Rate (\%)} = 100\% - \text{Stage Conversion Rate (\%)}$$
 
 ---
 
-## 📂 6. Repository Files & How to Explore
 
-```text
-📦 EdTech-Funnel-Analytics
- ┣ 📄 Codeyoung_EdTech_Funnel_Dataset.xlsx       # Raw EdTech lead & funnel dataset
- ┣ 📊 Ed Tech Company Analysis Project.xlsx      # Complete Excel analysis, Pivot Tables & Dashboard
- ┣ 🖼️ funnel_performance_by_source.png           # Visual chart of channel conversion performance
- ┗ 📜 README.md                                  # Project documentation & case study
-```
 
 ### **How to Review the Work:**
 1. Download and open **`Ed Tech Company Analysis Project.xlsx`** in Microsoft Excel or Google Sheets.
 2. Explore the **Analysis & Pivot Tabs** to view the stage-by-stage cohort calculations, drop-off percentages, and channel segmentation tables.
-3. Review the **Dashboard / Visual Summary** to see the comparative charts across acquisition channels.
+
 
 ---
 
 ## 👤 Author & Contact
 
 **Somesh Kumar**  
-*Business & Data Analyst | EdTech, Customer Insights & Funnel Analytics*  
+ 
 📍 Bengaluru, Karnataka, India  
-🔗 [LinkedIn](#) | [GitHub](#) | 📧 somesh.kumar@email.com
+📧 someshkumar.data@email.com
